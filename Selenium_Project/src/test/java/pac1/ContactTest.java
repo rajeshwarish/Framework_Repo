@@ -18,4 +18,8 @@ public void createcontacttest() {
 @Test
 public void modifycontatatest() {
 	System.out.println("execute modifycontact");
+}
+@Test
+public void deletecontatatest() {
+	System.out.println("execute deletecontact");
 }}
